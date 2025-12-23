@@ -105,7 +105,7 @@ st.plotly_chart(fig2)
 
 st.markdown("""
 **Insights**
-- AI: $369M approx., largest single block; “Other”: $346M approx., indicating long-tail diversification.
+- AI - $369M approx., largest single block; “Other” - $346M approx., indicating long-tail diversification.
 - Software: $244M approx., Information Technology: $191M approx., Generative AI: $93M approx., SaaS: $78M approx.
 - AI dominates both volume and capital; capital spreads into emerging niches.
 - Generative AI raises large amounts per deal, reflecting high investor conviction.
@@ -208,7 +208,7 @@ st.plotly_chart(fig4)
 st.markdown("""
 **Insights**
 - YC deploys $200M+ approx., 2–3x more than the other four combined.
-- YC leads in AI ($69M approx.) and Generative AI ($52M approx.), diversifying broadly.
+- YC leads in AI with $69M approx.  and Generative AI with $52M approx., diversifying broadly.
 - Overall AI dominance persists even with YC's broad portfolio.
 """)
 
@@ -310,9 +310,10 @@ st.plotly_chart(fig6)
 
 st.markdown("""
 **Insights**
-- Generative AI tops at ~$1.37M per deal, nearly 4x B2B (~$354K).
+- Generative AI tops at $1.37M approx. per deal, nearly 4x B2B $354K approx.
 - High averages in GenAI and Information Technology reflect premium valuations.
 - Manufacturing ranks high (~$923K), likely due to capital needs.
 - SaaS, B2B, and Health Care have lower averages, indicating tighter discipline.
 - Capital is polarizing toward "hot" technical sectors early on.
 """)
+
